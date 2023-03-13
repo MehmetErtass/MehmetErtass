@@ -6,8 +6,8 @@ A developer passionate about AI and Mobile app development
 
 📫 How to reach me : Ertasmehmet10@gmail.com
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=MehmetErtass&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetErtass&langs_count=8)](https://github.com/MehmetErtass/github-readme-stats)
 
 
