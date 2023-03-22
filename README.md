@@ -6,6 +6,8 @@ A developer passionate about data science and Mobile app
 
 📫 How to reach me : Ertasmehmet10@gmail.com
 
+👯 Open to opportunities.
+
 
 
 
