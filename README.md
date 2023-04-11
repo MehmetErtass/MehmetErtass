@@ -11,7 +11,6 @@ Hi, how are you?👋
 
 * 👯 Open to opportunities.
 
-🌐Socials:
 
 
 
