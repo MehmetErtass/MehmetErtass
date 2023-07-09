@@ -4,7 +4,9 @@ Hi, how are you? 👋
 
 * 😎 I'm software engineer with a passion for science and evolve. Love learning new technologies 
 
-* 🌱 I’m currently working on
+* 🌱 I’m currently working on Data Science and Mobil Development
+
+* 📝 I regularly write articles on https://medium.com/@ertasmehmet10
 
 * 📫 How to reach me : Ertasmehmet10@gmail.com or add me Linkedin :)
 
