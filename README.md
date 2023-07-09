@@ -7,7 +7,11 @@ Hi, how are you? 👋
 * 🌱 I’m currently working on Data Science and Mobil Development
 
 * 📝 I regularly write articles on https://medium.com/@ertasmehmet10
-  
+
+
+
+
+
 
 * 📫 How to reach me : Ertasmehmet10@gmail.com or add me Linkedin :)
 
