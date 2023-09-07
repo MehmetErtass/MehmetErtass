@@ -13,7 +13,7 @@ Hi, how are you? 👋
 
 
 
-* 📫 How to reach me : Ertasmehmet10@gmail.com or https://www.linkedin.com/in/mehmet-ertas-3988071b5/
+* 📫 How to reach me : Ertasmehmet10@gmail.com 
 
 * 👯 Open to opportunities.
 
