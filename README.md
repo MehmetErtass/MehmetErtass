@@ -4,18 +4,6 @@ Hi, how are you? 👋
 
 * 😎 I'm software engineer with a passion for science and evolve. Love learning new technologies 
 
-
-
-
-
-
-
 * 📫 How to reach me : Ertasmehmet10@gmail.com 
 
 * 👯 Open to opportunities.
-
-
-
-
-
-
