@@ -6,4 +6,4 @@ Hi, how are you? 👋
 
 * 📫 How to reach me : Ertasmehmet10@gmail.com 
 
-* 👯 Open to opportunities.
+* 👯 Open to opportunities
