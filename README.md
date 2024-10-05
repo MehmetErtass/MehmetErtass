@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=10&size=22&duration=2000&pause=1000&width=320&height=30&lines=Hi👋,+I'm+Mehmet+Ertaş;%20Software+Engineer)
 ---
+
 ### 👨‍💻 About Me
 - 🔭 I’m currently seeking new job opportunities in the tech industry.
 - 🌱 I’m continuously enhancing my skills through diverse courses, bootcamps, and hands-on projects.
