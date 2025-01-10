@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Mehmet</h1>
 
-## 👨‍💻 About Me
+# # 👨‍💻 About Me
 
 🎓 **Graduated from Istanbul Beykent University**, **Computer Engineering** (July 2023).  
 🔍 Specializing in **Software Development**, **Data Science**, and **Machine Learning**.  
