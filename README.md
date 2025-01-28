@@ -8,7 +8,6 @@
 💡 Focused on **agile development**, ensuring the delivery of scalable and reliable software solutions in cross-functional teams.  
 🎯 Dedicated to **data-driven decision-making** and **building impactful software solutions**.  
 💬 Open to discussing tech trends, software development, AI applications, and potential collaborations.  
-🚀 **Currently seeking opportunities in Software Development, Data Science and Mobile App Development**.
 
 ---
 
