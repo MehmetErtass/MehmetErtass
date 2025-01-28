@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Graduated from Istanbul Beykent University**, **Computer Engineering** (July 2023).  
+🎓 **Graduated from Istanbul Beykent University**, **Computer Engineering**.  
 🔍 Specializing in **Software Development**, **Data Science**, and **Machine Learning**.  
 🌱 Passionate about **solving real-world problems** with clean, efficient code using modern technologies like **AI**, **ML**, and **data analytics**.  
 💡 Focused on **agile development**, ensuring the delivery of scalable and reliable software solutions in cross-functional teams.  
