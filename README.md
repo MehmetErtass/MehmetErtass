@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Mehmet</h1>
 
-## 👨‍💻 About Med
+## 👨‍💻 About Medg
 
 🎓 **Graduated from Istanbul Beykent University**, **Computer Engineering**.  
 🔍 Specializing in **Software Development**, **Data Science**, and **Machine Learning**.  
