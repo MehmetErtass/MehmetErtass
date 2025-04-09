@@ -11,7 +11,7 @@
 
 ---
 
-<h1 align="center">  Let's Connect
+<h1 align="center"> 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmetertas/" target="_blank">
