@@ -2,6 +2,7 @@
 
 ## 👨‍💻 About Me
 
+
 🎓 **Graduated from Istanbul Beykent University**, **Computer Engineering**.  
 🔍 Specializing in **Software Development**, **Data Science**, and **Machine Learning**.  
 🌱 Passionate about **solving real-world problems** with clean, efficient code using modern technologies like **AI**, **ML**, and **data analytics**.  
