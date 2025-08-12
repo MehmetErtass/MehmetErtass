@@ -32,7 +32,7 @@ I am a passionate Computer Engineering graduate with experience in designing and
   <a href="mailto:ertasmehmet10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://medium.com/@ertasmehmet10" target="_blank">
+  <a href="[https://medium.com/@ertasmehmet10](https://medium.com/@mehmetertass)" target="_blank">
   <img src="https://img.shields.io/badge/Medium-%2300ab6c.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 </p>
