@@ -24,3 +24,15 @@ I am a passionate Computer Engineering graduate with experience in designing and
 | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Agile](https://img.shields.io/badge/Agile-F05032?style=for-the-badge&logo=trello&logoColor=white) |
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetertas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ertasmehmet10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://medium.com/@ertasmehmet10" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%2300ab6c.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+</p>
