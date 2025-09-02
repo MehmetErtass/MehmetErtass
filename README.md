@@ -93,15 +93,22 @@ I believe in staying current with technology trends and continuously expanding m
 
 I'm always excited to discuss **data science**, **backend development**, and **fintech innovations**. Whether you're looking for collaboration opportunities or want to chat about the latest in ML/AI, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertasmehmet10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://mehmetertass.github.io/)
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetertass&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+  <a href="https://www.linkedin.com/in/mehmetertas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/>
+  </a>
+
+  <a href="mailto:ertasmehmet10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;"/>
+  </a>
+
+  <a href="https://mehmetertass.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>  <br/><br/><img src="https://komarev.com/ghpvc/?username=mehmetertass&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+
 </div>
+
 
 ---
 
