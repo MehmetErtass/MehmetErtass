@@ -1,6 +1,6 @@
 # Hi there, I'm Mehmet Ertaş 👋
 
-## 🚀 Data Scientist & Backend Developer | Istanbul 🇹🇷
+## 🚀 Software Developer | Istanbul 🇹🇷
 
 > Transforming data into actionable insights and building scalable backend solutions. Currently seeking full-time opportunities to drive innovation in data-driven organizations.
 
