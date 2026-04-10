@@ -1,74 +1,96 @@
-# Mehmet Ertaş
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mehmet%20Ertaş&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**Software Developer** based in Istanbul, Turkey.  
-I build backend systems and data-driven solutions across banking, fintech, and e-commerce.
-
----
-
-### About Me
-
-Computer Engineer with hands-on experience delivering backend and data analysis solutions 
-in real-world environments. I enjoy working at the intersection of data and software — 
-turning raw information into reliable, maintainable systems.
-
-- 🔭 Currently working on: **InsightViz** (no-code data analytics platform) and **Personal Finance Tracker API**
-- 🌱 Learning: **Cloud deployment** and **system design**
-- 💼 Open to: **Backend Developer**, **Data Analyst**, **Business Analyst** roles
-- 📫 Reach me: **ertasmehmet10@gmail.com**
-- 🏅 Honor Student — Beykent University | IEEE Club Coordinator
+<img src="https://komarev.com/ghpvc/?username=MehmetErtass&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-blueviolet?style=flat-square"/>
+</div>
 
 ---
 
-### Tech Stack
+## 👨‍💻 About Me
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=python&logoColor=white)
-
-#### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Computer Engineering graduate with 2+ years of experience in data science and machine learning. I've worked at two major Turkish banks and an NLP startup — building models, cleaning real-world data, and creating dashboards that ended up in actual business decisions. Currently looking for a full-time Data Scientist or ML Engineer role.
 
 ---
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [InsightViz](https://github.com/MehmetErtass/InsightViz) | No-code web platform for data analysis and AI-powered insights | Python, Streamlit, Scikit-learn |
-| [Personal Finance Tracker](https://github.com/MehmetErtass/personal-finance-tracker-backend) | RESTful backend API with AI-powered budgeting suggestions | Python, Flask, SQLAlchemy, OpenAI API |
-| [E-Commerce Sales Analysis](https://github.com/MehmetErtass/ecommerce-sales-analysis) | Sales trend analysis, RFM segmentation & 6-month forecasting | Python, Prophet, Power BI |
-| [Credit Card Fraud Detection](https://github.com/MehmetErtass/credit-card-fraud-detection) | Fraud detection model on real-world financial data | Python, Scikit-learn |
+**Languages:** `Python` `Java` `SQL` `JavaScript` `HTML/CSS`
+
+**ML & Data:** `Scikit-learn` `Pandas` `NumPy` `NLTK` `Prophet` `Jupyter`
+
+**Visualization:** `Power BI` `Matplotlib` `Seaborn`
+
+**Frameworks:** `Flask` `Spring Boot` `React` `Streamlit`
+
+**Databases:** `PostgreSQL` `MySQL` `Firebase`
+
+**Tools:** `Git` `Agile/Scrum` `SDLC`
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>📱 Mobile Developer Intern — LC Waikiki · Jul – Aug 2023</b></summary>
+
+- Contributed to a Java-based mobile e-commerce app; performed code optimization & refactoring
+- Participated in debugging, code reviews, and a full 4-week Agile/Scrum sprint
+</details>
+
+<details>
+<summary><b>🔬 Data Scientist (Part-time) — Summarify · Aug 2022 – Jun 2024</b></summary>
+
+- Cleaned and labeled 10,000+ text records for NLP model training
+- Built text summarization & classification pipelines using transformer-based models
+- Evaluated model performance and supported A/B testing across multiple versions
+- Created Power BI dashboards to track model KPIs; presented findings to non-technical stakeholders
+</details>
+
+<details>
+<summary><b>📉 Data Analyst Intern — Türkiye Finans Katılım Bankası · Jul – Aug 2022</b></summary>
+
+- Extracted and cleaned financial data from MySQL using Python and Pandas
+- Corrected data inconsistencies and pushed validated records back to production DB
+- Built Power BI dashboards tracking campaign KPIs — adopted in weekly management reporting
+</details>
+
+<details>
+<summary><b>💻 Software Development Intern — Yapı Kredi Bankası · Jun – Jul 2022</b></summary>
+
+- Training on SDLC, Agile methodology, and Java fundamentals in a corporate banking environment
+- Practiced Git workflows: branching, pull requests, and code reviews
+</details>
 
 ---
 
-### Experience
-
-- **Data Scientist** — Summarify *(Aug 2022 – Jun 2024)*
-- **Mobile Application Developer** — LC Waikiki *(Jul 2023 – Aug 2023)*
-- **Data Analyst** — Türkiye Finans Katılım Bankası *(Jul 2022 – Aug 2022)*
-- **Software Engineer** — Yapı Kredi *(Jun 2022 – Jul 2022)*
-
----
+## 🚀 Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetertas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://mehmetertass.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertasmehmet10@gmail.com)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [E-Commerce Sales Analysis](https://github.com/MehmetErtass/ecommerce-sales-analysis) | RFM segmentation & 6-month revenue forecasting with Prophet. Power BI dashboards with confidence intervals. | `Python` `Pandas` `Prophet` `Power BI` |
+| [Personal Finance Tracker API](https://github.com/MehmetErtass/personal-finance-tracker-backend) | Flask REST API with automatic expense categorization using Naive Bayes. | `Python` `Flask` `PostgreSQL` `Scikit-learn` |
+| [InsightViz](https://github.com/MehmetErtass/InsightViz) | No-code CSV analytics tool with outlier detection, heatmaps, and AI-generated summaries. | `Python` `Streamlit` `Pandas` `Seaborn` |
+| [Stock Sentiment Analysis](https://github.com/MehmetErtass/Stock_Sentiment_Analysis) | DJIA movement prediction from financial headlines using NLP and bigram features. | `Python` `NLTK` `Scikit-learn` |
+
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet%20Ertaş-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetertas/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehmetertass.github.io-4FC3F7?style=for-the-badge&logo=github&logoColor=white)](https://mehmetertass.github.io)
+[![Twitter/X](https://img.shields.io/badge/X-@developer__ertas-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/developer_ertas)
 
 </div>
