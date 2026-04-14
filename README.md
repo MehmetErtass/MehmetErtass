@@ -20,17 +20,15 @@ Computer Engineering graduate with 2+ years of experience in data science and ma
 
 ## 🛠️ Tech Stack
 
-**Languages:** `Python` `Java` `SQL` `JavaScript` `HTML/CSS`
+**Languages:** `Python` `Java` `SQL`
 
-**ML & Data:** `Scikit-learn` `Pandas` `NumPy` `NLTK` `Prophet` `Jupyter`
+**Frameworks:** `Spring Boot` `Flask` `React`
 
-**Visualization:** `Power BI` `Matplotlib` `Seaborn`
+**Data Science & ML:** `Pandas` `NumPy` `Scikit-learn` `Jupyter` `TensorFlow`
 
-**Frameworks:** `Flask` `Spring Boot` `React` `Streamlit`
+**Data & BI Tools:** `Power BI` `Matplotlib` `Seaborn`
 
-**Databases:** `PostgreSQL` `MySQL` `Firebase`
-
-**Tools:** `Git` `Agile/Scrum` `SDLC`
+**Tools:** `Git` `Docker` `Postman` `Maven` `Jira` `Agile/Scrum`
 
 ---
 
@@ -46,8 +44,8 @@ Computer Engineering graduate with 2+ years of experience in data science and ma
 <details>
 <summary><b>🔬 Data Scientist (Part-time) — Summarify · Aug 2022 – Jun 2024</b></summary>
 
-- Cleaned and labeled 10,000+ text records for NLP model training
-- Built text summarization & classification pipelines using transformer-based models
+- Cleaned and labeled 10,000+ text records for NLP model training, reducing manual data preparation workload by 40%
+- Built text summarization & classification pipelines using transformer-based models, achieving 30% improvement in model performance over baseline
 - Evaluated model performance and supported A/B testing across multiple versions
 - Created Power BI dashboards to track model KPIs; presented findings to non-technical stakeholders
 </details>
@@ -66,22 +64,6 @@ Computer Engineering graduate with 2+ years of experience in data science and ma
 - Training on SDLC, Agile methodology, and Java fundamentals in a corporate banking environment
 - Practiced Git workflows: branching, pull requests, and code reviews
 </details>
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [E-Commerce Sales Analysis](https://github.com/MehmetErtass/ecommerce-sales-analysis) | RFM segmentation & 6-month revenue forecasting with Prophet. Power BI dashboards with confidence intervals. | `Python` `Pandas` `Prophet` `Power BI` |
-| [Personal Finance Tracker API](https://github.com/MehmetErtass/personal-finance-tracker-backend) | Flask REST API with automatic expense categorization using Naive Bayes. | `Python` `Flask` `PostgreSQL` `Scikit-learn` |
-| [InsightViz](https://github.com/MehmetErtass/InsightViz) | No-code CSV analytics tool with outlier detection, heatmaps, and AI-generated summaries. | `Python` `Streamlit` `Pandas` `Seaborn` |
-| [Stock Sentiment Analysis](https://github.com/MehmetErtass/Stock_Sentiment_Analysis) | DJIA movement prediction from financial headlines using NLP and bigram features. | `Python` `NLTK` `Scikit-learn` |
-
-
-</div>
 
 ---
 
