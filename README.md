@@ -1,62 +1,34 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mehmet%20Erta%C5%9F&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20Data%20Scientist%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/><img src="https://komarev.com/ghpvc/?username=MehmetErtass&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
-</div>
+# Mehmet Ertaş
+**Data Analyst** — Istanbul, Turkey · [Portfolio](https://mehmetertass.github.io) · [LinkedIn](https://www.linkedin.com/in/mehmetertas) · [Email](mailto:ertasmehmet10@gmail.com)
 
-## 👨‍💻 About Me
+Computer Engineering graduate with experience in financial data analysis, ETL, and machine learning across two Turkish banks and an NLP startup. Comfortable across the full pipeline — from SQL extraction to Power BI reporting to model deployment.
 
-Data Analyst and Junior Data Scientist based in Istanbul. I work with Python and SQL on real data problems financial datasets, NLP pipelines, customer segmentation, and sales forecasting.
+Open to Data Analyst, Data Science, and AI/ML roles — Istanbul or remote.
 
-During university I interned at two Turkish banks and an NLP startup, working on real pipelines and dashboards used in actual business decisions. Since graduating, I've been building independent projects and completing professional certifications to deepen my technical foundation.
+## Skills
+**Languages:** Python, SQL, Java
+**ML / Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
+**BI & Visualization:** Power BI, Matplotlib, Seaborn
+**Backend:** Flask, PostgreSQL, MySQL, SQLAlchemy
 
-Currently open to Data Analyst and Junior Data Scientist roles in Istanbul and remote.
+## Experience
+| Role | Company | Period |
+|---|---|---|
+| Freelance AI & Python Developer | Self-employed | Sep 2025–Present |
+| Data Scientist (Part-time) | Summarify | Aug 2022–Jun 2024 |
+| Mobile Developer Intern | LC Waikiki | Jul–Aug 2023 |
+| Data Analyst Intern | Türkiye Finans Katılım Bankası | Jul–Aug 2022 |
+| Software Development Intern | Yapı Kredi Bankası | Jun–Jul 2022 |
 
----
+## Selected Projects
+- **[InsightViz](https://github.com/MehmetErtass/InsightViz)** — Streamlit tool for no-code exploratory data analysis
+- **[Credit Card Fraud Detection](https://github.com/MehmetErtass/credit-card-fraud-detection)** — Random Forest classifier, 0.90 ROC-AUC on imbalanced data
+- **[E-Commerce Sales Analysis](https://github.com/MehmetErtass/ecommerce-sales-analysis)** — RFM segmentation and revenue forecasting with Prophet
+- **[Personal Finance Tracker API](https://github.com/MehmetErtass/personal-finance-tracker-backend)** — Flask REST API with an ML-based transaction classifier
 
-## 🛠️ Tech Stack
+Full list: [github.com/MehmetErtass](https://github.com/MehmetErtass)
 
-**Languages:** `Python` `Java` `SQL`
+## Education
+**B.Sc. Computer Engineering** — Istanbul Beykent University, 2019–2023 (GPA 3.08/4.00)
 
-**Data Science & ML:** `Pandas` `NumPy` `Scikit-learn` `Jupyter` `TensorFlow`
-
-**Data & BI Tools:** `Power BI` `Matplotlib` `Seaborn`
-
-**Tools:** `Git` `Docker` `Postman` `Maven` `Jira` `Agile/Scrum`
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>📱 Mobile Developer Intern — LC Waikiki · Jul – Aug 2023</b></summary>
-- Java mobile app development, Agile/Scrum sprint process.
-</details>
-
-<details>
-<summary><b>🔬 Data Scientist (Part-time) — Summarify · Aug 2022 – Jun 2024</b></summary>
-- NLP classification pipelines, sentiment analysis, model evaluation, Power BI dashboards.
-</details>
-
-<details>
-<summary><b>📉 Data Analyst Intern — Türkiye Finans Katılım Bankası · Jul – Aug 2022</b></summary>
-- Financial data analysis, ETL processes, SQL, Power BI reporting.
-</details>
-
-<details>
-<summary><b>💻 Software Development Intern — Yapı Kredi Bankası · Jun – Jul 2022</b></summary>
-- SDLC, Git workflows, Java fundamentals.
-</details>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet%20Ertaş-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-mehmetertass.github.io-4FC3F7?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+Certifications: IBM Data Science Professional Certificate, Python A-Z (Udemy), Feature Engineering (Miuul), Practical SQL (BTK Akademi)
