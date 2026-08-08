@@ -1,5 +1,5 @@
 # Mehmet Ertaş
-**Data Analyst** — Istanbul, Turkey · [Portfolio](https://mehmetertass.github.io) · [LinkedIn](https://www.linkedin.com/in/mehmetertas) · [Email](mailto:ertasmehmet10@gmail.com)
+**Data Analyst** — Istanbul, Turkey · [Portfolio](https://mehmetertas.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mehmetertas) · [Email](mailto:ertasmehmet10@gmail.com)
 
 Computer Engineering graduate with experience in financial data analysis, ETL, and machine learning across two Turkish banks and an NLP startup. Comfortable across the full pipeline — from SQL extraction to Power BI reporting to model deployment.
 
